@@ -9,4 +9,9 @@ use (
 	./06mypointers
 	./07array
 	./08myslices
+	./09mymaps
+	./10structs
+	./11ifelse
+	./12switchcase
+	./13loops
 )
