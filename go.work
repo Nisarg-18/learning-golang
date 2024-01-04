@@ -14,4 +14,10 @@ use (
 	./11ifelse
 	./12switchcase
 	./13loops
+	./14functions
+	./15methods
+	./16defer
+	./17files
+	./18webrequests
+	./19urls
 )
