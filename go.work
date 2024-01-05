@@ -20,4 +20,6 @@ use (
 	./17files
 	./18webrequests
 	./19urls
+	./20webreqverbs
+	./21json
 )
