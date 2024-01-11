@@ -22,4 +22,6 @@ use (
 	./19urls
 	./20webreqverbs
 	./21json
+	./22mymod
+	./23buildapi
 )
