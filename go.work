@@ -24,4 +24,5 @@ use (
 	./21json
 	./22mymod
 	./23buildapi
+	./24mongoapi
 )
